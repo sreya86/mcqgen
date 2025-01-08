@@ -15,4 +15,10 @@ clear
 #we don't want to include all these into git, so we take env folder to seperate folder named:".gitignore"
 touch .gitignore
 #open gitignore file and write env inside it.
-
+#add requirements.txt file
+#create setup.py file to installing local packages in my virtual env
+#create new folder >src>__init__.py file
+#inside src folder,create one more folder:>mcqgen>__init__.py
+#__init__.py file should be created always so as it should be considered as a package.
+#here it is local package.
+#experiment folder :-inside we create jupyter notebooks
